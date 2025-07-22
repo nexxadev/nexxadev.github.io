@@ -35,7 +35,7 @@ I'm a hands-on builder who blends **code** and **creativity** to bring interacti
 
 ### 📬 Connect With Me
 
-- 🌐 **Portfolio**: [nexxadev.github.io](https://nexxadev.github.io)
+- 🌐 **Portfolio**: [nexxadev](https://nexxadev.github.io)
 - 📧 Open to collaborations, freelance, or research partnerships!
 
 ---
