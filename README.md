@@ -13,11 +13,14 @@ I'm a hands-on builder who blends **code** and **creativity** to bring interacti
 
 ### 💼 Featured Projects
 
-| Project                        | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| 🖐️ **Air Keyboard**           | Type with your hands in the air using OpenCV + MediaPipe + Python          |
-| 🎥 **Morse Messenger**        | ESP32 + Web Serial based live Morse chatting with vibration feedback       |
-| 💡 **Package Checker**      | Full-featured Python based new package installing version finder             |
+| Project                           | Description                                                                 |
+|-----------------------------------|-----------------------------------------------------------------------------|
+| 🖐️ **Air Keyboard**              | Type with your hands in the air using OpenCV + MediaPipe + Python            |
+| 🎥 **Morse Messenger**           | ESP32 + Web Serial based live Morse chatting with vibration feedback         |
+| 💡 **Package Checker**           |Full-featured Python based new package installing version finder              |
+| 🤞 **Smart Attendance System**   |An IoT-based real-time Smart Attendance System                                | 
+| ⌚ **Wearable Safety Band**      |An IoT-based Wearable Safety Band is a real-time safety and tracking system   |
+
 
 > ⚡ All projects are built with efficiency, performance, and real-time experience in mind.
 
